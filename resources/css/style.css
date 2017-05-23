@@ -24,6 +24,7 @@ h3{
 a{
   color:inherit;
   font-size: 18px;
+  font-size: inherit;
 }
 
 .page-head{
